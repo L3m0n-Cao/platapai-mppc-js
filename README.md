@@ -4,6 +4,7 @@
 <h3>A maintained nodeJS bot package for MPPClone/Multiplayer Piano. based on Anonydiamond's anony-mpp-bot-js.</h3>
 </div>
 ## Installation
+
 ```bash
 npm init
 npm i platapai-mppc-js
