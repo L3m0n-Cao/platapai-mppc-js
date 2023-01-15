@@ -1,0 +1,33 @@
+{
+  "name": "platapai-mppc-js",
+  "version": "1.0.0",
+  "description": "A maintained nodeJS bot package for MPPClone/Multiplayer Piano. based on Anonydiamond's anony-mpp-bot-js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+    "keywords": [
+    "mpp",
+    "mpp-bot",
+    "mppbot",
+    "mppclient",
+    "mppclone",
+    "mppc-bot",
+    "mppc-bot-js",
+    "mppclone-bot",
+    "mpp-client"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/L3m0n-Cao/platapai-mppc-js.git"
+  },
+
+  "author": "Platapai",
+  "dependencies": {
+    "platapai-mppc-js": "^1.0.0",
+    "fs": "^0.0.1-security",
+    "midi-player-js": "^2.0.16"
+  }
+}
