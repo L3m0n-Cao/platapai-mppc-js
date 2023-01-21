@@ -1,4 +1,4 @@
-const Client = require("./Client"); //hello code review person cool
+const Client = require("./client"); //hello code review person cool
 const MidiPlayer = require("midi-player-js");
 const fs = require("fs");
 
